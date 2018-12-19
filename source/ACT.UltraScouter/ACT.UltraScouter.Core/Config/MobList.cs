@@ -52,7 +52,6 @@ namespace ACT.UltraScouter.Config
         [XmlIgnore] private bool testMode = false;
         [XmlIgnore] private bool visibleZ = true;
         [XmlIgnore] private bool visibleMe = true;
-        [XmlIgnore] private bool ungroupSameNameMobs = false;
         [XmlIgnore] private DirectionOrigin directionOrigin = DirectionOrigin.North;
         [XmlIgnore] private double directionAdjustmentAngle = 0;
         [XmlIgnore] private bool isSimple = false;
